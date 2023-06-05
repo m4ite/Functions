@@ -1,0 +1,45 @@
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/refint/main.dll
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/runner/CSharp/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/abc/obj/Debug/netcoreapp6.0/refint/main.dll
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/abc/bin/Debug/netcoreapp6.0/main
+/home/runner/abc/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/abc/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/abc/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/abc/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/abc/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
+/home/runner/abc/obj/Debug/netcoreapp6.0/ref/main.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\bin\Debug\netcoreapp6.0\main.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\bin\Debug\netcoreapp6.0\main.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\bin\Debug\netcoreapp6.0\main.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\bin\Debug\netcoreapp6.0\main.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\bin\Debug\netcoreapp6.0\main.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\refint\main.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\main.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\5 - Aprendizes\4 - Desenvolvimento de Sistemas\2 - Desenvolvimento de sistemas 2022\Maitê Feld\AULAS\C#\AVANÇADO\Funcoes\obj\Debug\netcoreapp6.0\ref\main.dll
